@@ -13,10 +13,10 @@ title                    : "Võ Quốc Huy"
 title_separator          : "-"
 name                     : &name "Võ Quốc Huy"
 description              : &description "Portfolio of Vo Quoc Huy - Information Security student aiming to become a SOC Analyst (SIEM, IDS/IPS, MITRE ATT&CK, malware analysis)"
-url                      : https://huyvo13032005.github.io # Change this if your repo is not named "huyvo13032005.github.io"
+url                      : https://h1yv0.github.io # Change this if your repo is not named "huyvo13032005.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "huyvo13032005/huyvo13032005.github.io"
+repository               : "h1yv0/h1yv0.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
