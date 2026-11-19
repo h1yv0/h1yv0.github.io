@@ -1,8 +1,6 @@
 # Order of the links in the site header.
 main:
-  - title: "About"
-    url: /
-
+ 
   - title: "Projects"
     url: /portfolio/
 
