@@ -15,7 +15,7 @@ redirect_from:
   <div class="hero__cta">
     <a class="btn btn--primary" href="{{ site.baseurl }}/portfolio/">View projects</a>
     <a class="btn btn--inverse" href="https://www.linkedin.com/in/huyvo13032005/" target="_blank" rel="noopener">LinkedIn</a>
-    <a class="btn btn--inverse" href="https://github.com/huyvo13032005" target="_blank" rel="noopener">GitHub</a>
+    <a class="btn btn--inverse" href="https://github.com/h1yv0" target="_blank" rel="noopener">GitHub</a>
     <a class="btn btn--inverse" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huyvo9864@gmail.com" target="_blank" rel="noopener">Email</a>
   </div>
 </div>
@@ -71,7 +71,7 @@ Completed the **Security Operations Center (SOC)** course from Cisco Learning & 
 
 <div class="hero__cta">
   <a class="btn btn--primary" href="https://www.linkedin.com/in/huyvo13032005/" target="_blank" rel="noopener">LinkedIn</a>
-  <a class="btn btn--inverse" href="https://github.com/huyvo13032005" target="_blank" rel="noopener">GitHub</a>
+  <a class="btn btn--inverse" href="https://github.com/h1yv0" target="_blank" rel="noopener">GitHub</a>
   <a class="btn btn--inverse" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=huyvo9864@gmail.com" target="_blank" rel="noopener">Email me</a>
 </div>
 
